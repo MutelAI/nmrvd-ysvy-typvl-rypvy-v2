@@ -1,0 +1,371 @@
+{
+  "version": 2,
+  "business": {
+    "name": "נמרוד - עיסוי טיפול ריפוי",
+    "name_en": "נמרוד- עיסוי טיפול ריפוי",
+    "site_lang": "he",
+    "available_langs": [
+      "he"
+    ],
+    "phone": "0505702591",
+    "phone_display": "050-570-2591",
+    "whatsapp": "972505702591",
+    "website": "",
+    "rating": 5,
+    "reviews_count": 12,
+    "address_he": "הארזים 6, מוצא עילית",
+    "address_en": "",
+    "category_he": "מטפל בעיסוי תאילנדי",
+    "category_en": "Thai Massage Therapist",
+    "maps_url": "https://maps.google.com/?q=31.7921688,35.1576535",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbgzhSzbhJTbXdcYbPFQ0KPqAi7NfEk5G3xVgBowjE9p6HoSYjYjrlLPCVXPSnsaX5DexfM3zYGfq9vnoLDpzSZU6nknOf4TsKdp6-ycusGK8aRmffWYhe8ukzaGHj6rxpSNmn=w408-h552-k-no",
+    "logo_emoji": "HandHeart",
+    "geo": {
+      "latitude": 31.7921688,
+      "longitude": 35.1576535
+    },
+    "schema_type": "LocalBusiness",
+    "price_range": "moderate",
+    "source_url": "https://maps.app.goo.gl/4ptG3W7F6LG5F92G8",
+    "cache_key": "4ptG3W7F6LG5F92G8"
+  },
+  "editToken": "3270eb88e299c41ba2f13fe7661c9c79",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "C",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "עיסוי תאילנדי מקצועי מנמרוד - ריפוי עמוק וחידוש עוצמה",
+          "en": "עיסוי תאילנדי מקצועי מנמרוד - ריפוי עמוק וחידוש עוצמה"
+        },
+        "subtitle": {
+          "he": "טיפול עיסוי תאילנדי מומחה הנותן הקלה משמעותית ממתח וחידוש פנימי",
+          "en": "טיפול עיסוי תאילנדי מומחה הנותן הקלה משמעותית ממתח וחידוש פנימי"
+        },
+        "available": {
+          "he": "זמין לטיפול",
+          "en": "זמין לטיפול"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "G",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "טיפולים וטכניקות",
+          "en": "טיפולים וטכניקות"
+        },
+        "subtitle": {
+          "he": "כל טיפול מעוצב לשחרור מתח, ריפוי עמוק וחידוש מלא",
+          "en": "כל טיפול מעוצב לשחרור מתח, ריפוי עמוק וחידוש מלא"
+        },
+        "cta": {
+          "he": "הזמן טיפול כעת",
+          "en": "הזמן טיפול כעת"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "HandHeart",
+          "title": {
+            "he": "עיסוי תאילנדי",
+            "en": "עיסוי תאילנדי"
+          },
+          "desc": {
+            "he": "טיפול עיסוי תאילנדי מקצועי המשלב טכניקות עתיקות של לחץ ומתיחות. העיסוי מעורר זרימת אנרגיה טבעית בגוף, משחרר מתחים עמוקים ומאזן את מערכות הגוף. כל סשן מעוצב להביא הקלה משמעותית וחדשוף של עוצמה גופנית.",
+            "en": "טיפול עיסוי תאילנדי מקצועי המשלב טכניקות עתיקות של לחץ ומתיחות. העיסוי מעורר זרימת אנרגיה טבעית בגוף, משחרר מתחים עמוקים ומאזן את מערכות הגוף. כל סשן מעוצב להביא הקלה משמעותית וחדשוף של עוצמה גופנית."
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Waves",
+          "title": {
+            "he": "שחרור מתחים עמוקים",
+            "en": "שחרור מתחים עמוקים"
+          },
+          "desc": {
+            "he": "טיפול מתמחה בהסרת מתחים מצטברים בשרירים ורקמות עמוקות. השיטה משלבת לחץ מדויק וטכניקות עבודה מעמיקה לשיקום מלא של הגוף. התוצאה היא הקלה מתמשכת וחזרה לגמישות ותנועה חופשית.",
+            "en": "טיפול מתמחה בהסרת מתחים מצטברים בשרירים ורקמות עמוקות. השיטה משלבת לחץ מדויק וטכניקות עבודה מעמיקה לשיקום מלא של הגוף. התוצאה היא הקלה מתמשכת וחזרה לגמישות ותנועה חופשית."
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Leaf",
+          "title": {
+            "he": "ריפוי וחידוש",
+            "en": "ריפוי וחידוש"
+          },
+          "desc": {
+            "he": "טיפול כוללני המביא את הגוף למצב של שלווה וחידוש עמוק. הטיפול משפר זרימה לימפטית, מעלה את רמת האנרגיה ומחזק את המערכות הטבעיות של הגוף להחלמה עצמית.",
+            "en": "טיפול כוללני המביא את הגוף למצב של שלווה וחידוש עמוק. הטיפול משפר זרימה לימפטית, מעלה את רמת האנרגיה ומחזק את המערכות הטבעיות של הגוף להחלמה עצמית."
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "E",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "חוות דעת",
+          "en": "חוות דעת"
+        }
+      },
+      "items": [
+        {
+          "author": "gili elbaz",
+          "rating": 5,
+          "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.407Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shir Maman",
+          "rating": 5,
+          "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.407Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shir Maman",
+          "rating": 5,
+          "text": "חוויה מדהימה. מסאג' מעולה ומקצועי. נמרוד מהמם וקשוב!",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.407Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "lihi zussman",
+          "rating": 5,
+          "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.407Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "lihi zussman",
+          "rating": 5,
+          "text": "נמרוד מטפל מקסים וקשוב גם בתהליך קבוצתי",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.407Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "gili elbaz",
+          "rating": 5,
+          "text": "חוויה מעולה ממש תאילנד.\nמטפל קשוב, ומחיר מעולה .\nלמי שמחפש/ת טיפול איכותי זה המקום!!!\nממליצה בחום",
+          "date": "לפני 5 שנים",
+          "iso_date": "2021-05-30T09:35:48.406Z",
+          "is_local_guide": false
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "C",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "הזמן טיפול",
+          "en": "הזמן טיפול"
+        },
+        "subtitle": {
+          "he": "צור קשר עם נמרוד כדי לתאם את הסשן שלך",
+          "en": "צור קשר עם נמרוד כדי לתאם את הסשן שלך"
+        },
+        "wa_hello": {
+          "he": "שלום, אשמח לשמור על מקום לטיפול עיסוי תאילנדי",
+          "en": "שלום, אשמח לשמור על מקום לטיפול עיסוי תאילנדי"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "אודות נמרוד",
+          "en": "אודות נמרוד"
+        },
+        "desc": {
+          "he": "נמרוד הוא מטפל בעיסוי תאילנדי המחויב לאיכות וקשב מעמיק לכל לקוח. בכל סשן הוא משלב מומחיות טכנית עם רגישות לצרכי הגוף, ומספק חוויה ריפואית המעניקה הקלה מוחשית וחידוש אמיתי. הלקוחות שלו מעידים על הבדל ממש, וחוזרים שוב ושוב.",
+          "en": "נמרוד הוא מטפל בעיסוי תאילנדי המחויב לאיכות וקשב מעמיק לכל לקוח. בכל סשן הוא משלב מומחיות טכנית עם רגישות לצרכי הגוף, ומספק חוויה ריפואית המעניקה הקלה מוחשית וחידוש אמיתי. הלקוחות שלו מעידים על הבדל ממש, וחוזרים שוב ושוב."
+        },
+        "years_value": {
+          "he": "",
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "variant": "C",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "המרחב",
+          "en": "המרחב"
+        },
+        "subtitle": {
+          "he": "סביבה רגועה ותומכת לחוויית ריפוי מלאה",
+          "en": "סביבה רגועה ותומכת לחוויית ריפוי מלאה"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "owner",
+          "alt": {
+            "he": "נמרוד - עיסוי טיפול ריפוי",
+            "en": "נמרוד - עיסוי טיפול ריפוי"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "C",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ],
+  "geo_summary": "Nmrod is a professional Thai massage therapist based in Moza Eilit, specializing in therapeutic deep-tissue massage and tension release. With a perfect 5-star rating across multiple reviews, he is recognized for his attentive approach, technical expertise, and ability to deliver meaningful pain relief and bodily rejuvenation. Clients consistently praise the quality and professionalism of his work.",
+  "faq": [
+    {
+      "question": "מה בדיוק כרוך בעיסוי תאילנדי?",
+      "answer": "עיסוי תאילנדי משלב טכניקות עתיקות של לחץ, מתיחות וזרימה אנרגטית. הטיפול פועל על שרירים ורקמות עמוקות כדי לשחרר מתח מצטבר, לשפר את זרימת האנרגיה בגוף, ולהחזיר גמישות ותנועה חופשית."
+    },
+    {
+      "question": "כמה זמן לוקח סשן עיסוי ויש תוצאות מיד?",
+      "answer": "משך הטיפול משתנה בהתאם לצרכים שלך, וניתן לתאם אותו עם נמרוד. רוב הלקוחות חשים הקלה משמעותית כבר במהלך הסשן, עם תוצאות שמתגברות בשעות ובימים שלאחריו."
+    },
+    {
+      "question": "האם הטיפול כואב?",
+      "answer": "עיסוי תאילנדי עמוק יכול להיות אינטנסיבי, אך נמרוד מסתגל את עוצמת הטיפול לרמת הנוחות שלך. הוא קשוב ומודע לתגובות הגוף שלך, ומספק טיפול יעיל ובו זמנית בר-סבילה."
+    },
+    {
+      "question": "כמה קרוב עליי לחזור לטיפול נוסף?",
+      "answer": "זה תלוי בצרכיך - חלק מהלקוחות מגיעים כל שבוע לתחזוקה רגילה, בעוד אחרים מתייעדים לפי הצורך. נמרוד יכול להמליץ על לוח זמנים מתאים בהתאם לעומק המתח שלך."
+    },
+    {
+      "question": "האם יש מצב בו לא מומלץ לעבור עיסוי?",
+      "answer": "עם כמה מצבים רפואיים או פציעות חדשות, מומלץ להתייעץ עם גורם רפואי תחילה. נמרוד יכול לדון איתך בהיסטוריה הרפואית שלך כדי לוודא שהטיפול בטוח ויעיל עבורך."
+    }
+  ]
+}

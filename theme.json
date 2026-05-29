@@ -1,0 +1,11 @@
+{
+  "primary_color": "violet",
+  "secondary_color": "amber",
+  "hero_gradient": "from-violet-900 via-violet-800 to-amber-900",
+  "contact_gradient": "from-violet-950 to-amber-950",
+  "font_heading": "Bellefair",
+  "font_body": "Heebo",
+  "font_google_import": "Bellefair&family=Heebo:wght@300;400;500",
+  "brand_personality": "מטפל מומחה ומקצועי המשדר רגיעות, קשב וריפוי עמוק",
+  "logo_emoji": "HandHeart"
+}
